@@ -172,3 +172,9 @@ By identifying likely adopters early, extension programmes can **focus resources
 ### Competition Leaderboard Performance
 
 [[16th Place](https://zindi.africa/competitions/digicow-farmer-training-adoption-challenge/leaderboard)]
+
+
+### My working- Feature Engineeering:
+
+* Topic popularity(max_, min_, range_, ratio_, is_rare)
+* 
