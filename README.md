@@ -178,3 +178,4 @@ By identifying likely adopters early, extension programmes can **focus resources
 
 * Topic popularity(max_, min_, range_, ratio_, is_rare)
 * Topic combination frequency- using **hashlib**
+* Coverage- rare vs unseen
