@@ -177,4 +177,4 @@ By identifying likely adopters early, extension programmes can **focus resources
 ### My working- Feature Engineeering:
 
 * Topic popularity(max_, min_, range_, ratio_, is_rare)
-* 
+* Topic combination frequency- using **hashlib**
