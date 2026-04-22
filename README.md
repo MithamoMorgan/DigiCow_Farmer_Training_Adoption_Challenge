@@ -179,3 +179,9 @@ By identifying likely adopters early, extension programmes can **focus resources
 * Topic popularity(max_, min_, range_, ratio_, is_rare)
 * Topic combination frequency- using **hashlib**
 * Coverage- rare vs unseen
+* time-aware feature engineering pipeline for modeling group behavior. It transforms raw logs into signals like:
+
+experience (volume)
+specialization (entropy)
+effectiveness (success rate)
+reliability (consistency)
